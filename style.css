@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin:0;
+    
+}
+
+.header {
+    width: 100%;
+    min-height: 90px;
+    border-radius: 70px;
+    background-color: #FAFAFA;
+    margin-top: 34px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+}
+
+.logo {
+    /* background-color: rgb(246, 149, 149); */
+    flex-grow: 1;
+    padding-left: 70px;
+
+
+}
+
+.tabs {
+    background-color: #FEFEFF;
+    flex-grow: 2;
+    min-height: 60px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.a .btn{
+    padding-right: 40px;
+
+}
+    
+
+
+
+
+.btn {
+    width: 164px;
+    height: 60px;
+    border: 1px solid #BEBEBE;
+    border-radius: 40px;
+    padding: 15px 35px 15px 35px;
+    padding-left: 20px;
+}
+
+.headinh{
+    width: 95%;
+    display: flex;
+     box-sizing: border-box; 
+}
+
+.headinh img{
+    padding-top: 30%;
+    padding-left: 10%;
+}
+.para{
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-right: 20%;
+}
+.button img{
+    padding-top: 20px;
+    padding-left:10% ;
+}
+.robo img{
+    padding-bottom: 70%;
+
+    
+
+    
+}
+.fa-brands{
+    padding-left: 40px;
+}
+
+
+
+
+
+
+
